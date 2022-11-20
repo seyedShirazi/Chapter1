@@ -1,9 +1,8 @@
 # Chapter-1
+Getting Started with Machine Learning and Python
+
 Introduction to Machine Learning
-This is the first Chapter of ML Univercity of Tehran Courses
-# Objectives
-### Basic Machine Learning Concepts
-### Package Installation
+## Package Installation
   Numpy
   Scipy
   Scikit-learn
