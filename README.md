@@ -1,11 +1,3 @@
-# Chapter-1
+# Chapter 1:
 Getting Started with Machine Learning and Python
-
-Introduction to Machine Learning
-## Package Installation
-  Numpy
-  Scipy
-  Scikit-learn
-  Pandas
-  Tensorflow
-  
+home work:installing the Numpy , Scipy , Scikit-learn , Pandas and Tensorflow packages
